@@ -13,11 +13,11 @@ Track your progress by checking off each box as you complete it. ✅
 
 ## Table of Contents
 
-- [Phase 1: Math & Stats Foundations (Weeks 1-3)](#phase-1-math--stats-foundations-3-weeks)  
-- [Phase 2: Python Programming & Data Science (Weeks 4-5)](#phase-2-python-programming--data-science-2-weeks)  
-- [Phase 3: Financial Markets & Trading (Weeks 6-8)](#phase-3-financial-markets--trading-3-weeks)  
-- [Phase 4: Machine Learning for Quants (Weeks 9-11)](#phase-4-machine-learning-for-quants-3-weeks)  
-- [Phase 5: Projects & Portfolio (Week 12)](#phase-5-projects--portfolio-1-week)  
+- [Phase 1: Math & Stats Foundations](#phase-1-math--stats-foundations-3-weeks)  
+- [Phase 2: Python Programming & Data Science](#phase-2-python-programming--data-science-2-weeks)  
+- [Phase 3: Financial Markets & Trading](#phase-3-financial-markets--trading-3-weeks)  
+- [Phase 4: Machine Learning for Quants](#phase-4-machine-learning-for-quants-3-weeks)  
+- [Phase 5: Projects & Portfolio](#phase-5-projects--portfolio-1-week)  
 - [Bonus: Career & Community](#bonus-career--community)  
 - [How to Use This Repo](#how-to-use-this-repo)  
 - [Contributing](#contributing)  
